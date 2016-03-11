@@ -3,7 +3,8 @@ public class ArryTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//test
+		int i = 5;
+		i++;
 	}
 
 }
